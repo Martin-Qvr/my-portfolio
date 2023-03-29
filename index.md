@@ -22,7 +22,8 @@ Performing two different computer vision tasks on a satellite image dataset. Fir
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
 ---
-[Project 3 Title](http://example.com/)
+[Exploration of various Explanability techniques](http://example.com/)
+Exploration of a series of explainable AI  and algorithmic fairness techniques on credit default data. Techniques include both global and local interpretability techniques (PDP, LIME, SHAP etc.) 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -30,14 +31,11 @@ Performing two different computer vision tasks on a satellite image dataset. Fir
 
 ### Web and other skill-based projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Tools surfboard - website](https://martin-qvr.github.io/tools-website/)
+- [Bike subvention simulator - streamlit app](https://pastel-cycles-simulateur-aides.streamlit.app/)
+
 
 ---
-
 
 
 
