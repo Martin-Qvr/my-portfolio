@@ -11,7 +11,7 @@ Explored techniques include (back translation, paraphrase generation, random del
 We then use the augmented data to train a last layer on a transformers model ```CamembertForTokenClassification```[here](https://huggingface.co/camembert-base) from Huggingface's transformers library.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)]
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/NER.png?raw=true"/>
 
 ---
 [Silo detection - McKinsey - computer vision](/pdf/sample_presentation.pdf)
@@ -19,13 +19,13 @@ Performing two different computer vision tasks on a satellite image dataset. Fir
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/> 
+<img src="images/silo.png?raw=true"/> 
 
 ---
 [Exploration of various Explanability techniques](http://example.com/)
 Exploration of a series of explainable AI  and algorithmic fairness techniques on credit default data. Techniques include both global and local interpretability techniques (PDP, LIME, SHAP etc.) 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/explainability.png?raw=true"/>
 
 ---
 
