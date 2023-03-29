@@ -2,13 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Selected projects in Data Science
 
-[Project 1 Title](/sample_page)
+[Named Entity Recognition for Posology extraction - NLP](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Implemented several NLP augmentation techniques on Posology data from anonymized hospital admission in France.
+Explored techniques include (back translation, paraphrase generation, random deletion / random swapping, summarization, synonym generation)
+
+We then use the augmented data to train a last layer on a transformers model ```CamembertForTokenClassification```[here](https://huggingface.co/camembert-base) from Huggingface's transformers library.
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)]
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Silo detection - McKinsey ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +22,7 @@
 
 ---
 
-### Category Name 2
+### Web and other skill-based projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
